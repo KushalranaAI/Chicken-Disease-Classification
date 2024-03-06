@@ -135,5 +135,3 @@ Pull the Docker image from Docker Hub:
 ```bash
 docker pull kushalranaai/chicken-disease-classification
 ```
-Feel free to reach out if you have any questions or issues!
-```
